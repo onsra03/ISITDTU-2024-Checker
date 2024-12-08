@@ -4,7 +4,7 @@ ISITDTU-CTF 2024 Final! This repository contains the checker files for the follo
 
 1. [Pwn01](https://github.com/onsra03/ISITDTU-2024-Checker/tree/main/pwn01)
 2. [Web01](https://github.com/onsra03/ISITDTU-2024-Checker/tree/main/web01)
-3. [Web02](https://github.com/onsra03/ISITDTU-2024-Checker/tree/main/web01)
+3. [Web02](https://github.com/onsra03/ISITDTU-2024-Checker/tree/main/web02)
 
 ## Challenge Overview
 
